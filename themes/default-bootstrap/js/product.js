@@ -256,7 +256,7 @@ $(window).bind('hashchange', function(){
 });
 
 //hover 'other views' images management
-$(document).on('mouseover', '#views_block li a', function(){
+$(document).on('click', '#views_block li a', function(){
 	displayImage($(this));
 });
 //add a link on the span 'view full size' and on the big image
@@ -683,7 +683,7 @@ function updatePrice()
 	// 0 by default, +x if price is inscreased, -x if price is decreased
 	basePriceWithoutTax = basePriceWithoutTax + +combination.price;
 	basePriceWithTax = basePriceWithTax + +combination.price * (taxRate/100 + 1);
-	
+
 
 	var priceWithDiscountsWithoutTax = basePriceWithoutTax;
 	var priceWithDiscountsWithTax = basePriceWithTax;
