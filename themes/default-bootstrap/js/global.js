@@ -31,8 +31,8 @@ $(document).ready(function(){
 	$(window).resize(responsiveResize);
 	if (navigator.userAgent.match(/Android/i))
 	{
-		var viewport = document.querySelector('meta[name="viewport"]');
-		viewport.setAttribute('content', 'initial-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width,height=device-height');
+//		var viewport = document.querySelector('meta[name="viewport"]');
+//		viewport.setAttribute('content', 'initial-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width,height=device-height');
 		window.scrollTo(0, 1);
 	}
 	if (typeof quickView !== 'undefined' && quickView)
@@ -286,6 +286,7 @@ function display(view)
 			if (hookReviews.length) {
 				html += hookReviews.clone().wrap('<div>').parent().html();
 			}
+			//test for push
 			html += '<p class="product-desc">'+ $(element).find('.product-desc').html() + '</p>';
 			var colorList = $(element).find('.color-list-container').html();
 			if (colorList != null) {
