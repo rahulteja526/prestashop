@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:135085a4f7c6102ec30-86330065%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:23815a50bac590e219-78662254%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,7 +9,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '135085a4f7c6102ec30-86330065',
+  'nocache_hash' => '23815a50bac590e219-78662254',
   'variables' => 
   array (
     'banner_title' => 0,
@@ -19,10 +19,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a4f7c61104540_18060493',
+  'unifunc' => 'content_5a50bac59ac904_44926999',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a4f7c61104540_18060493')) {function content_5a4f7c61104540_18060493($_smarty_tpl) {?><!-- Productpaymentlogos module -->
+<?php if ($_valid && !is_callable('content_5a50bac59ac904_44926999')) {function content_5a50bac59ac904_44926999($_smarty_tpl) {?><!-- Productpaymentlogos module -->
 <div id="product_payment_logos">
 	<div class="box-security">
     <h5 class="product-heading-h5"></h5>

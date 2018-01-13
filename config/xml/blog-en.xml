@@ -6,6 +6,14 @@
     <language>en</language>
      <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>What is Marketing Automation, and why, for Turing&amp;#039;s sake, should I use it?</title>
+    <link>https://www.prestashop.com/en/blog/what-is-marketing-automation</link>
+    <description>The Internet has almost completely penetrated our daily lives. As much as a dozen years ago it was still a novelty, to which we approached very carefully.</description>
+     <pubDate>Thu, 11 Jan 2018 14:52:41 +0100</pubDate>
+ <dc:creator>salesmanago</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/what-is-marketing-automation</guid>
+  </item>
+  <item>
     <title>5 Tips to Optimize Your E-commerce Business for Mobile</title>
     <link>https://www.prestashop.com/en/blog/5-tips-to-optimize-your-e-commerce-business-for-mobile</link>
     <description>In 2018, there&#039;s one truth all e-commerce retailers should know: if you don&#039;t have a mobile presence, you&#039;re likely on the fast track to irrelevance.</description>
@@ -77,14 +85,6 @@ Maybe it was for your upcoming birthday party or a special date night…</descri
      <pubDate>Thu, 23 Nov 2017 09:59:13 +0100</pubDate>
  <dc:creator>prestashop-partners</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/en/blog/39-e-commerce-stats-you-need-to-know-before-the-holidays</guid>
-  </item>
-  <item>
-    <title>Meet Ian, Ambassador of the month | October 2017</title>
-    <link>https://www.prestashop.com/en/blog/prestashop-ambassadors-meet-ian-ambassador-of-the-month-october-2017</link>
-    <description>Ian turns out to be our very first Ambassador in South Africa: he is based in Pretoria and has no less than 4 PrestaShop stores!</description>
-     <pubDate>Tue, 31 Oct 2017 16:23:36 +0100</pubDate>
- <dc:creator>Manon Plommet</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-ambassadors-meet-ian-ambassador-of-the-month-october-2017</guid>
   </item>
   </channel>
 </rss>

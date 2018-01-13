@@ -256,7 +256,7 @@ $(window).bind('hashchange', function(){
 });
 
 //hover 'other views' images management
-$(document).on('click', '#views_block li a', function(){
+$(document).on('mouseover', '#views_block li a', function(){
 	displayImage($(this));
 });
 //add a link on the span 'view full size' and on the big image

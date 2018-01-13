@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-01-05 18:53:44
+<?php /* Smarty version Smarty-3.1.19, created on 2018-01-06 17:32:13
          compiled from "C:\xampp\htdocs\prestashop\modules\socialsharing\views\templates\hook\socialsharing.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:255595a4f7c60c93e71-46024276%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2285a50bac5449205-16771301%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '255595a4f7c60c93e71-46024276',
+  'nocache_hash' => '2285a50bac5449205-16771301',
   'function' => 
   array (
   ),
@@ -26,9 +26,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a4f7c60d104e7_39163128',
+  'unifunc' => 'content_5a50bac54bce45_71323100',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a4f7c60d104e7_39163128')) {function content_5a4f7c60d104e7_39163128($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a50bac54bce45_71323100')) {function content_5a50bac54bce45_71323100($_smarty_tpl) {?>
 <?php if ($_smarty_tpl->tpl_vars['PS_SC_TWITTER']->value||$_smarty_tpl->tpl_vars['PS_SC_FACEBOOK']->value||$_smarty_tpl->tpl_vars['PS_SC_GOOGLE']->value||$_smarty_tpl->tpl_vars['PS_SC_PINTEREST']->value) {?>
 
 	<p class="socialsharing_product list-inline no-print">
